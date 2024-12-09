@@ -7,3 +7,9 @@ export default function Loader() {
     </div>
   );
 }
+
+
+
+// height: 500%;
+// filter: blur(15px);
+// object-position: 0 129%;
