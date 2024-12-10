@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         romantically: ["Romantically", "sans-serif"],
+        alegreya: ["Alegreya Sans SC", "sans-serif"],
       },
     },
   },
